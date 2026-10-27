@@ -48,25 +48,14 @@ Je souhaite mettre cette double compétence — comprendre les enjeux nutritionn
 
 **Compétences mobilisées :** entretiens institutionnels, cadrage logique, rédaction de documents de projet.
 
-### Stagiaire en microbiologie moléculaire et médicale — URMAPHA, Université d'Abomey-Calavi
+### URMAPHA, Université d'Abomey-Calavi — stage et gestion du volet administratif
 *2023 – 2024*
 
-- Préparation et traitement d'échantillons biologiques ; culture et entretien de micro-organismes
-- Tenue de notes de laboratoire et rédaction de rapports de résultats
-- Application stricte des protocoles de sécurité et des bonnes pratiques de laboratoire
-
-### Gestionnaire du volet administratif — URMAPHA, Université d'Abomey-Calavi
-*2023 – 2024*
-
-- Archivage et transmission des dossiers ; rédaction et enregistrement des courriers
-- Préparation de rapports d'activités et de rapports qualité
-- Documentation des procédures et des protocoles de l'unité
-
-### Participation à la vie scientifique de l'URMAPHA — 2023-2024
-
-- Organisation de l'atelier du Programme de leadership scientifique au Bénin (« Leadership scientifique pour le développement durable et l'innovation technologique »)
-- Organisation d'une activité sur les revues et conférences prédatrices
-- Enquêtrice pour le projet **Minangan** — enquête sur la médecine traditionnelle au Bénin (pratiques et perspectives liées à l'utilisation des plantes médicinales)
+- Préparation et traitement d'échantillons biologiques ; culture de micro-organismes ; rédaction de rapports de résultats
+- Archivage et transmission des dossiers, rédaction et enregistrement des courriers
+- Préparation de rapports d'activités et de rapports qualité ; documentation des procédures et protocoles
+- Organisation de l'atelier du Programme de leadership scientifique au Bénin et d'une activité sur les revues prédatrices
+- Enquêtrice pour le projet **Minangan** — enquête sur la médecine traditionnelle au Bénin et l'usage des plantes médicinales
 
 ---
 
@@ -134,6 +123,3 @@ legba.brice@gmail.com · +229 66 01 09 41
 
 **Pr. Colette AZANDJEME**, MD — Médecin, Maître de Conférences Agrégée en Santé Publique, IRSP-CAQ, Université d'Abomey-Calavi
 
----
-
-*CV adapté au poste de Communication Assistant G5 — PAM Bénin, Cotonou. Toutes les expériences, diplômes et compétences cités sont conformes au parcours réel ; aucune expérience professionnelle salariée n'est revendiquée.*

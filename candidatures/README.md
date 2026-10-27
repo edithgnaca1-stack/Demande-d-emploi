@@ -26,6 +26,7 @@ candidatures/
 │   └── A_CONFIRMER_AVANT_ENVOI.md             ← points confirmés et décisions restantes
 ├── 02_Dossiers/
 │   ├── 01_PAM_Communication_Assistant_Cotonou/    🔴 clôture 5 nov. 2026
+│   │   └── PRET_A_DEPOSER_CE_SOIR.md              ← pas à pas du dépôt Workday
 │   ├── 02_FAO_Stage_Volontariat_Afrique/          🟠 clôture 31 déc. 2026
 │   └── 03_PAM_VNU_Communautaire_Urgent/           ⚫ analyse d'inéligibilité (28 oct. 2026)
 ├── 03_Veille/
@@ -42,17 +43,20 @@ candidatures/
 
 ## Fichiers prêts à envoyer
 
-Les CV et lettres existent en deux formats :
-- **`.md`** — la version de travail, modifiable dans le dépôt ;
-- **`.docx`** — la version mise en forme, à ouvrir dans Word pour relire, ajuster, puis **exporter en PDF avant l'envoi** (les plateformes de recrutement n'acceptent pas le format Word).
+Les CV et lettres existent en trois formats :
+- **`.pdf`** — ⭐ **la version à envoyer**. CV 2 pages, lettres 1 page, prêts à téléverser ;
+- **`.docx`** — pour retoucher la mise en forme dans Word si besoin ;
+- **`.md`** — la version de travail dans le dépôt.
 
-Les `.docx` sont régénérés automatiquement après toute modification du `.md` :
+Tout est régénéré après une modification du `.md` :
 
 ```bash
-cd candidatures && python3 outils/generer_docx.py
+cd candidatures
+python3 outils/generer_pdf.py     # PDF finaux (reportlab)
+python3 outils/generer_docx.py    # versions Word (python-docx)
 ```
 
-*(nécessite `python-docx` : `pip install python-docx`)*
+*(dépendances : `pip install reportlab python-docx`)*
 
 ---
 

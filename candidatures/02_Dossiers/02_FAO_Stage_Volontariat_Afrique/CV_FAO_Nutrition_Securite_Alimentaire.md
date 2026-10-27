@@ -62,22 +62,12 @@ Je m'intéresse particulièrement à la valorisation des aliments locaux, à l'�
 - Élaboration d'une analyse SWOT et d'un **plan opérationnel** (objectifs SMART, stratégies, activités, indicateurs)
 - Initiation à la planification, au suivi et à l'évaluation des interventions sanitaires
 
-### Stagiaire en microbiologie moléculaire et médicale — URMAPHA, Université d'Abomey-Calavi
+### URMAPHA, Université d'Abomey-Calavi — stage, gestion administrative et enquêtes
 *2023 – 2024*
 
-- Préparation et traitement d'échantillons biologiques ; culture de micro-organismes
-- Rédaction de rapports de résultats ; respect des protocoles de sécurité et de qualité
-
-### Gestionnaire du volet administratif — URMAPHA, Université d'Abomey-Calavi
-*2023 – 2024*
-
-- Archivage et transmission des dossiers ; rédaction et enregistrement des courriers
-- Préparation de rapports d'activités et de rapports qualité ; documentation des procédures
-
-### Enquêtrice — Projet Minangan, URMAPHA
-*2023 – 2024*
-
-- Enquête de terrain sur la médecine traditionnelle au Bénin : pratiques, interactions et perspectives liées à l'utilisation des plantes médicinales
+- Préparation et traitement d'échantillons biologiques ; culture de micro-organismes ; rapports de résultats
+- Archivage, courriers, rapports d'activités et rapports qualité ; documentation des procédures
+- Enquêtrice pour le projet Minangan : enquête de terrain sur la médecine traditionnelle au Bénin
 
 ---
 
@@ -136,6 +126,3 @@ legba.brice@gmail.com · +229 66 01 09 41
 
 **Pr. Colette AZANDJEME**, MD — Médecin, Maître de Conférences Agrégée en Santé Publique, IRSP-CAQ, Université d'Abomey-Calavi
 
----
-
-*CV établi pour le Programme de stages et le Programme de volontariat régulier de la FAO pour l'Afrique (RAF). Les enseignements listés sont ceux du cursus de Master ; les expériences présentées sont des stages académiques, ce qui est explicitement indiqué.*
