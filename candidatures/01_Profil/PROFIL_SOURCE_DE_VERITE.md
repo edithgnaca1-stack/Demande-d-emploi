@@ -32,8 +32,11 @@
 | Certification « Microbiologie basic » (délivrée par l'OMS) | URMAPHA | 2023 – 2024 |
 | Baccalauréat série D | Collège Catholique Saint-Augustin | 2018 – 2019 |
 
-⚠️ **Point bloquant à trancher avant tout envoi** : l'en-tête du CV affiche le titre « Ingénieur en Biologie Médicale », alors que la ligne Formation indique « **Licence** en Biologie Médicale (2020-2023) ».
-Un recruteur qui vérifie le diplôme peut y voir une inexactitude. **Ce titre n'est pas repris dans les CV produits ici.** Voir `A_CONFIRMER_AVANT_ENVOI.md`.
+✅ **Confirmé le 27 octobre 2026** — vous attestez que l'ensemble du CV est exact et que vous disposez des pièces justificatives.
+
+> **Une seule incohérence interne subsiste dans le document source** : l'en-tête affiche « Ingénieur en Biologie Médicale » tandis que la rubrique Formation indique « Licence en Biologie Médicale (2020-2023) ».
+> Les CV produits ici reprennent **la mention de la rubrique Formation**, la plus facilement vérifiable sur le diplôme, et placent en tête un intitulé de poste ciblé plutôt qu'un titre académique.
+> Si votre diplôme porte effectivement le titre d'**Ingénieur**, signalez-le : je remplace la ligne dans les quatre CV en une minute.
 
 ---
 
@@ -157,10 +160,10 @@ Un recruteur qui vérifie le diplôme peut y voir une inexactitude. **Ce titre n
 | « Maîtrise de la suite Adobe (Illustrator, InDesign, Photoshop) » | Non mentionnée. Le CV indique **Canva** uniquement. |
 | « Community management / gestion de réseaux sociaux » | Aucune trace. |
 | « Animation de groupes communautaires / facilitation d'ateliers » | Non explicitement attesté (le CV mentionne des entretiens, des observations, l'organisation d'un atelier — pas l'animation devant un public). |
-| « Permis de conduire » | Non mentionné (critère fréquent pour les postes de terrain). |
-| « Anglais courant / bilingue » | Niveau **intermédiaire** déclaré. |
+| « Permis de conduire » | Non mentionné (critère fréquent pour les postes de terrain). **À préciser de vive voix si vous l'avez** — cela s'ajoute favorablement. |
+| « Anglais courant / bilingue » | Niveau **intermédiaire** déclaré (confirmé). |
 | « Portfolio de graphisme professionnel » | Aucun portfolio fourni, aucune mission de graphiste rémunérée listée. |
-| « Master obtenu / diplômée » | Master 2 sur la période **2025-2026** : le diplôme est-il délivré ? La soutenance a-t-elle eu lieu ? **À confirmer.** |
+| « Master obtenu / diplômée » | ✅ **Confirmé le 27/10/2026** — vous disposez des pièces. |
 | « Expérience en suivi-évaluation opérationnel » | Le CV déclare ✓✓ et une « initiation » en stage. Ne pas présenter comme une expertise. |
 | « Analyse de données avancée » | Stata et Epi Info en ✓✓ = bases solides, pas expertise. |
 

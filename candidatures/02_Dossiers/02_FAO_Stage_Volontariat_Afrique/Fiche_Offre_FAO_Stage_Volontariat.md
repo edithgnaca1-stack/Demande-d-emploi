@@ -138,8 +138,8 @@ La FAO est l'agence des Nations Unies chargée de conduire les efforts internati
 
 ### Vérifications préalables indispensables
 - [ ] L'IRSP de Ouidah / Université d'Abomey-Calavi figure-t-elle dans la base **WHED** (whed.net) ? → **à faire avant tout**
-- [ ] Statut exact de votre Master 2 : diplôme délivré, ou inscription en cours ?
-- [ ] Confirmez-vous pouvoir assumer une affectation non rémunérée ou faiblement rémunérée, hors du Bénin si nécessaire ?
+- [x] ~~Statut exact du Master 2~~ — confirmé le 27/10/2026 : diplôme obtenu, pièces en votre possession
+- [ ] Confirmez-vous pouvoir assumer une affectation non rémunérée ou faiblement rémunérée, hors du Bénin si nécessaire ? → **voir `03_Veille/OPTIONS_A_COUT_ZERO_ET_MOBILITE.md`** : privilégier le **stage** (allocation possible) plutôt que le volontariat (non rémunéré)
 
 ### Pièces utiles, non exigées
 - [ ] Attestations de stage signées (DDS Littoral, ADD, So-Ava, URMAPHA)

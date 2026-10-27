@@ -160,8 +160,9 @@ Raisons de ne pas y investir davantage :
 **Objet d'e-mail :** sans objet — aucune candidature par e-mail n'est acceptée.
 
 **Étapes restantes avant l'envoi :**
-- [ ] Répondre aux questions 1 à 4 de `01_Profil/A_CONFIRMER_AVANT_ENVOI.md` (diplôme, Master 2, statut URMAPHA, pièces)
-- [ ] Produire un portfolio si vous en avez les éléments
+- [x] ~~Vérifier les diplômes et le statut des fonctions URMAPHA~~ — confirmé le 27/10/2026
+- [ ] Exporter le CV et la lettre en PDF depuis les fichiers `.docx`
+- [ ] Produire un portfolio si vous en avez les éléments (facultatif à ce stade, mais fortement recommandé)
 - [ ] Faire relire la lettre par une personne extérieure
 - [ ] Envoyer
 

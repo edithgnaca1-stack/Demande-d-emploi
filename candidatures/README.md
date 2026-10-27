@@ -29,7 +29,8 @@ candidatures/
 │   ├── 02_FAO_Stage_Volontariat_Afrique/          🟠 clôture 31 déc. 2026
 │   └── 03_PAM_VNU_Communautaire_Urgent/           ⚫ analyse d'inéligibilité (28 oct. 2026)
 └── 03_Veille/
-    └── SOURCES_OFFICIELLES_ET_PLAN_DE_VEILLE.md   ← 9 sources + routine du lundi
+    ├── SOURCES_OFFICIELLES_ET_PLAN_DE_VEILLE.md   ← 9 sources + routine du lundi
+    └── OPTIONS_A_COUT_ZERO_ET_MOBILITE.md        ← affectation non rémunérée : coûts réels et alternatives
 ```
 
 ---
@@ -69,7 +70,9 @@ Votre profil est solide sur l'**analyse de données de santé** et l'**éducatio
 
 Votre levier immédiat n'est donc pas le poste de nutritionniste : c'est la **consultance en production de supports de santé** (boîtes à images, affiches, modules, mise en page), qui se juge sur portfolio et non sur années d'expérience.
 
-Les voies d'entrée réalistes dans le système ONU sont, dans l'ordre : **stage FAO**, puis **consultances**, puis **VNU communautaire** une fois 2 ans d'expérience accumulés.
+Les voies d'entrée réalistes dans le système ONU sont, dans l'ordre : **volontariat en ligne** (gratuit, immédiat), **stage FAO**, puis **consultances**, puis **VNU communautaire** une fois 2 ans d'expérience accumulés.
+
+Et surtout : **n'achetez pas votre entrée.** Une affectation non rémunérée hors du Bénin coûterait entre 1,65 et 3,75 millions de FCFA pour six mois — soit deux à trois fois ce que rapporterait un volontariat rémunéré. Le volontariat **en ligne** produit la même ligne sur un CV, pour zéro franc. Détail du calcul dans `03_Veille/OPTIONS_A_COUT_ZERO_ET_MOBILITE.md`.
 
 ---
 
@@ -77,11 +80,12 @@ Les voies d'entrée réalistes dans le système ONU sont, dans l'ordre : **stage
 
 | Quand | Quoi |
 |---|---|
-| Aujourd'hui | Répondre aux 4 questions bloquantes de `A_CONFIRMER_AVANT_ENVOI.md` |
+| ✅ Fait | Parcours vérifié : le CV est exact, les pièces sont en votre possession |
+| Cette semaine | **Créer le profil app.unv.org** et viser une mission de **volontariat en ligne** (coût zéro, référence ONU) |
 | 30 octobre | Inscription au répertoire du Ministère de la Communication (gratuit, 5 min, utile pour la visibilité) |
-| 2-4 novembre | Envoyer la candidature PAM Communication Assistant |
+| 2-4 novembre | Envoyer la candidature PAM Communication Assistant (exporter les `.docx` en PDF) |
 | Novembre | Constituer un portfolio PDF de 6-8 pages |
-| Novembre | Soumettre la candidature FAO |
+| Novembre | Soumettre la candidature FAO — **le stage**, pas le volontariat non rémunéré |
 | Chaque lundi | 20 minutes de veille sur les 9 sources |
 
 ---
