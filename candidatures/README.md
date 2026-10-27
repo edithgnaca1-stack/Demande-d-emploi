@@ -7,7 +7,9 @@ Dossier de recherche d'emploi de **Marie Edith R. A. M. GNACADJA** — nutrition
 
 ## Par où commencer
 
-**1. Lisez `00_Tableau_de_bord.md`** — c'est le document central : les 18 offres examinées, leur statut réel, et les 3 à traiter en priorité.
+**1. Lisez `00_Tableau_de_bord.md`** — c'est le document central : les offres examinées, leur statut réel, et les 3 à traiter en priorité.
+
+**1 bis. Pour le fichier `Offres d'emploi.docx` :** `03_Veille/INVENTAIRE_COMPLET_DU_FICHIER_OFFRES.md` reprend **les 85 opportunités qu'il contient, une par une**, avec un verdict et un motif pour chacune.
 
 **2. Répondez à `01_Profil/A_CONFIRMER_AVANT_ENVOI.md`** — 12 questions. Quatre d'entre elles sont bloquantes (titre du diplôme, obtention du Master 2, statut des fonctions URMAPHA, pièces administratives). Sans ces réponses, certaines candidatures ne doivent pas partir.
 
@@ -31,6 +33,7 @@ candidatures/
 │   └── 03_PAM_VNU_Communautaire_Urgent/           ⚫ analyse d'inéligibilité (28 oct. 2026)
 ├── 03_Veille/
 │   ├── SOURCES_OFFICIELLES_ET_PLAN_DE_VEILLE.md  ← 9 sources + routine du lundi
+│   ├── INVENTAIRE_COMPLET_DU_FICHIER_OFFRES.md   ← les 85 opportunités du fichier, une par une, avec verdict
 │   └── OPTIONS_A_COUT_ZERO_ET_MOBILITE.md        ← affectation non rémunérée : coûts réels et alternatives
 └── 04_Portfolio/
     ├── Portfolio_GNACADJA_Marie_Edith.pdf        ← 7 pages, à joindre aux candidatures communication

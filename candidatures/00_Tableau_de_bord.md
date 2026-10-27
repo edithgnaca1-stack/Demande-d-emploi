@@ -33,6 +33,8 @@
 
 > **Aucune ligne de ce tableau n'est inventée.** Chaque statut provient d'une page consultée le 27/10/2026 (voir les liens dans les fiches d'offre et dans `03_Veille/`).
 > Les lignes 5, 15 et 17 portent la mention ⚠️ car je n'ai pas pu ouvrir la fiche officielle de l'employeur : ne les traitez pas comme certaines.
+>
+> **Ce tableau est une sélection, pas un recensement.** Le fichier `Offres d'emploi.docx` contient **85 opportunités** ; leur sort à chacune — retenue, veille, écartée, avec le motif — est détaillé dans **`03_Veille/INVENTAIRE_COMPLET_DU_FICHIER_OFFRES.md`**.
 
 ---
 
