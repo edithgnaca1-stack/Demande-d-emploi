@@ -27,16 +27,14 @@
 | Master 2 Nutrition et santé des populations | IRSP — Ouidah (Institut Régional de Santé Publique) | 2025 – 2026 |
 | Master 1 Nutrition et santé des populations | IRSP — Ouidah | 2024 – 2025 |
 | Diplôme Universitaire en Éducation nutritionnelle pour l'Afrique francophone | Université Senghor — en ligne | oct. 2024 – mai 2025 |
-| Licence en Biologie Médicale | IRGIB-AFRICA — Cotonou | 2020 – 2023 |
+| Licence en Biologie Médicale — **diplôme national** | IRGIB-AFRICA — Cotonou | 2020 – 2023 |
 | Formation en Graphisme | EIGB — Cotonou | 2019 – 2020 |
 | Certification « Microbiologie basic » (délivrée par l'OMS) | URMAPHA | 2023 – 2024 |
 | Baccalauréat série D | Collège Catholique Saint-Augustin | 2018 – 2019 |
 
-✅ **Confirmé le 27 octobre 2026** — vous attestez que l'ensemble du CV est exact et que vous disposez des pièces justificatives.
-
-> **Une seule incohérence interne subsiste dans le document source** : l'en-tête affiche « Ingénieur en Biologie Médicale » tandis que la rubrique Formation indique « Licence en Biologie Médicale (2020-2023) ».
-> Les CV produits ici reprennent **la mention de la rubrique Formation**, la plus facilement vérifiable sur le diplôme, et placent en tête un intitulé de poste ciblé plutôt qu'un titre académique.
-> Si votre diplôme porte effectivement le titre d'**Ingénieur**, signalez-le : je remplace la ligne dans les quatre CV en une minute.
+> **La question du titre « Ingénieur » est réglée** (27/10/2026). L'école parle d'un cursus « **ingénieur des travaux** », mais le diplôme effectivement délivré est la **Licence nationale**. Les CV disent donc « Licence en Biologie Médicale — diplôme national ».
+>
+> **Formulation à utiliser en entretien** si un recruteur demande des précisions : *« J'ai suivi le cycle ingénieur des travaux d'IRGIB-AFRICA, sanctionné par la licence nationale en biologie médicale. »* C'est exact, vérifiable sur le diplôme, et cela ne revendique rien de plus.
 
 ---
 
@@ -140,10 +138,34 @@
 ### Langues
 - **Français** : expression orale et écrite ✓✓✓
 - **Anglais** : lecture et compréhension de documents scientifiques, expression orale et écrite ✓✓ *(niveau intermédiaire — correspond au « level B » souvent demandé par les agences ONU)*
+- **Fon et mina** : notions (confirmé le 27/10/2026) — à mentionner comme « notions », jamais comme maîtrise
+
+### Autres atouts confirmés
+- **Permis B** (voiture) — confirmé le 27/10/2026. Pas de véhicule personnel, mais le permis reste un atout réel pour les postes de terrain où il s'agit de conduire un véhicule de projet.
 
 ---
 
-## 5. Références figurant au CV
+## 5. RÉALISATIONS EN GRAPHISME — découvertes dans le dépôt le 27/10/2026
+
+Ces travaux figuraient dans le dépôt GitHub (archives ZIP et fichier `Citation.png`) mais **n'apparaissaient nulle part dans le CV**. Ils constituent pourtant la preuve la plus concrète de la compétence en communication visuelle — et, pour certains, une référence institutionnelle de poids.
+
+| Réalisation | Contexte vérifiable | Ce que cela prouve |
+|---|---|---|
+| **Logo du Benin Science Leadership Program (B-SLP)** | Programme de leadership scientifique, Université d'Abomey-Calavi | **Identité visuelle complète** : concept, construction, typographie. La carte du Bénin est bâtie à partir de structures moléculaires. |
+| **Série d'attestations BSLP / MINNAGAN** | Projet MINNAGAN financé par l'**Union européenne (Erasmus+)**, avec l'Université de Helsinki, l'Université San Jorge, l'UNSTIM, l'Université de Parakou et le Ministère de la Santé | **Conception d'un système graphique** décliné sur plusieurs types de documents officiels, avec intégration de logos partenaires |
+| **Tableau des axes de formation pédagogique** | URMAPHA / EPAC, Université d'Abomey-Calavi | Mise en page de document scientifique |
+| **Étiquette produit PolFFree-AC** | Charbon actif mis au point par l'URMAPHA pour l'eau | Visuel produit + hiérarchie de l'information + mention d'usage |
+| **Série de visuels réseaux sociaux** | Campagne personnelle, format 1080×1080 | Déclinaison d'une série cohérente, palette et typographie |
+
+**Ce que ces réalisations changent dans le CV :** il ne faut plus écrire seulement « Formation en graphisme (EIGB) » mais faire figurer ces travaux. Un recruteur qui voit un logo réalisé pour un programme universitaire et une série d'attestations d'un projet financé par l'Union européenne ne lit plus le même CV.
+
+⚠️ **Deux points à confirmer avant de qualifier ces travaux :**
+1. **Quel était votre statut ?** Bénévolat au sein de l'URMAPHA ? Stage ? Prestation commandée et facturée ? *Cela détermine si l'on écrit « conception graphique réalisée pour… » (neutre, toujours vrai) ou « prestation de graphisme » (plus fort, mais doit être exact).*
+2. **Le logo BSLP est-il bien de vous ?** Il figure dans une archive nommée « Copie de BSLP » à côté des attestations que vous avez manifestement produites — mais je préfère que vous le confirmiez avant qu'il ouvre le portfolio.
+
+---
+
+## 6. Références figurant au CV
 
 1. **Dr Brice Boris LEGBA**, PhD — Chercheur en microbiologie, URMAPha, École Polytechnique d'Abomey-Calavi, Université d'Abomey-Calavi
    · legba.brice@gmail.com · +229 66 01 09 41
@@ -151,7 +173,7 @@
 
 ---
 
-## 6. Ce que le CV **ne** prouve **pas** — à ne jamais affirmer sans preuve
+## 7. Ce que le CV **ne** prouve **pas** — à ne jamais affirmer sans preuve
 
 | Affirmation tentante | Réalité du dossier |
 |---|---|
@@ -169,7 +191,7 @@
 
 ---
 
-## 7. Les trois angles de valorisation réels
+## 8. Les trois angles de valorisation réels
 
 1. **Analyse de situation et données de santé** — 3 analyses de situation (départementale, zone sanitaire, étude interventionnelle), DHIS2, enquêtes, SWOT, priorisation, plans opérationnels SMART. C'est le socle le plus solide du profil.
 2. **Éducation nutritionnelle et supports de sensibilisation** — DU Senghor en éducation nutritionnelle + compétence déclarée en conception de supports + Canva. C'est la **double compétence** à vendre sur les postes de communication pour la santé.

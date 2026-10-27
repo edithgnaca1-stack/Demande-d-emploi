@@ -23,14 +23,19 @@ candidatures/
 ├── 00_Tableau_de_bord.md                      ← tableau récapitulatif + priorités + plan sur 3 mois
 ├── 01_Profil/
 │   ├── PROFIL_SOURCE_DE_VERITE.md             ← tout ce que le CV prouve… et ce qu'il ne prouve pas
-│   └── A_CONFIRMER_AVANT_ENVOI.md             ← 12 questions bloquantes ou importantes
+│   └── A_CONFIRMER_AVANT_ENVOI.md             ← points confirmés et décisions restantes
 ├── 02_Dossiers/
 │   ├── 01_PAM_Communication_Assistant_Cotonou/    🔴 clôture 5 nov. 2026
 │   ├── 02_FAO_Stage_Volontariat_Afrique/          🟠 clôture 31 déc. 2026
 │   └── 03_PAM_VNU_Communautaire_Urgent/           ⚫ analyse d'inéligibilité (28 oct. 2026)
-└── 03_Veille/
-    ├── SOURCES_OFFICIELLES_ET_PLAN_DE_VEILLE.md   ← 9 sources + routine du lundi
-    └── OPTIONS_A_COUT_ZERO_ET_MOBILITE.md        ← affectation non rémunérée : coûts réels et alternatives
+├── 03_Veille/
+│   ├── SOURCES_OFFICIELLES_ET_PLAN_DE_VEILLE.md  ← 9 sources + routine du lundi
+│   └── OPTIONS_A_COUT_ZERO_ET_MOBILITE.md        ← affectation non rémunérée : coûts réels et alternatives
+└── 04_Portfolio/
+    ├── Portfolio_GNACADJA_Marie_Edith.pdf        ← 7 pages, à joindre aux candidatures communication
+    ├── README.md                                 ← 2 points à valider avant envoi
+    ├── sources/                                  ← les visuels sélectionnés
+    └── outils/construire_portfolio.py            ← régénère le PDF
 ```
 
 ---

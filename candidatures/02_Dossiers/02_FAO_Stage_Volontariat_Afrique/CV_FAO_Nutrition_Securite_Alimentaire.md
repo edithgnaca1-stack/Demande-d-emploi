@@ -3,13 +3,13 @@
 **Nutrition · Sécurité alimentaire · Analyse de données de santé · Éducation nutritionnelle**
 
 Womey, Abomey-Calavi, Atlantique, Bénin · +229 62 07 56 06 · edithgnaca1@gmail.com
-Nationalité béninoise · 25 ans · Français courant · Anglais intermédiaire
+Nationalité béninoise · 25 ans · Permis B · Français courant, notions de fon et de mina · Anglais intermédiaire
 
 ---
 
 ## PROFIL
 
-Titulaire d'un Master en Nutrition et santé des populations (IRSP Ouidah, 2025-2026) et d'un Diplôme universitaire en éducation nutritionnelle pour l'Afrique francophone (Université Senghor), je souhaite contribuer aux travaux de la FAO sur la sécurité alimentaire et la nutrition en Afrique de l'Ouest.
+Titulaire d'un Master en Nutrition et santé des populations (IRSP Ouidah, 2025-2026) et d'un Diplôme universitaire en éducation nutritionnelle pour l'Afrique francophone (Université Senghor), je souhaite contribuer aux travaux de la FAO sur la sécurité alimentaire et la nutrition en Afrique de l'Ouest. Ma formation en graphisme complète ce parcours : je conçois les supports de sensibilisation et les documents institutionnels qui accompagnent les interventions de terrain.
 
 Mon parcours associe une formation théorique solide — nutrition aux étapes du cycle de vie, épidémiologie appliquée, systèmes d'information sanitaire, planification et suivi-évaluation — à une expérience de terrain concrète acquise dans trois zones sanitaires béninoises : analyse de situation nutritionnelle à partir des données DHIS2, étude interventionnelle sur l'hygiène alimentaire et hydro-fécale, et analyse de situation sanitaire départementale.
 
@@ -24,7 +24,7 @@ Je m'intéresse particulièrement à la valorisation des aliments locaux, à l'�
 | **Master 2 — Nutrition et santé des populations** | Institut Régional de Santé Publique (IRSP), Ouidah — Université d'Abomey-Calavi | 2025 – 2026 |
 | **Master 1 — Nutrition et santé des populations** | IRSP, Ouidah | 2024 – 2025 |
 | **Diplôme Universitaire — Éducation nutritionnelle pour l'Afrique francophone** | Université Senghor (formation en ligne) | oct. 2024 – mai 2025 |
-| Licence en Biologie Médicale | IRGIB-AFRICA, Cotonou | 2020 – 2023 |
+| Licence en Biologie Médicale — diplôme national | IRGIB-AFRICA, Cotonou | 2020 – 2023 |
 | Formation en Graphisme | EIGB, Cotonou | 2019 – 2020 |
 | Certification « Microbiologie basic » (OMS) | URMAPHA | 2023 – 2024 |
 | Baccalauréat série D | Collège Catholique Saint-Augustin | 2019 |
@@ -99,7 +99,27 @@ Rédaction scientifique, rapports d'activités et comptes rendus · communicatio
 KoboCollect · Epi Info · Stata · Microsoft Excel · Microsoft Word · Microsoft PowerPoint · Canva
 
 **Langues**
-Français — courant (oral et écrit) · Anglais — intermédiaire (lecture de documents scientifiques, expression écrite et orale)
+Français — courant (oral et écrit) · Anglais — intermédiaire (lecture de documents scientifiques, expression écrite et orale) · Fon et mina — notions
+
+**Autres**
+Permis B
+
+---
+
+## RÉALISATIONS EN COMMUNICATION VISUELLE
+
+**Identité visuelle — Benin Science Leadership Program (B-SLP)**
+Conception du logo du programme de leadership scientifique au Bénin.
+
+**Série d'attestations — programme MINNAGAN (Union européenne, Erasmus+)**
+Conception et mise en page d'une famille d'attestations pour un programme réunissant l'Université d'Abomey-Calavi, l'UNSTIM, l'Université de Parakou, l'Université de Helsinki, l'Université San Jorge et le ministère de la Santé.
+
+**Étiquette produit — charbon actif PolFFree-AC (URMAPHA)**
+Visuel de présentation d'un charbon actif destiné à éliminer les polluants organiques de l'eau.
+
+**Série de visuels pour réseaux sociaux** — palette, typographie et gabarits réutilisables.
+
+> **Portfolio** : visuels disponibles sur demande.
 
 ---
 

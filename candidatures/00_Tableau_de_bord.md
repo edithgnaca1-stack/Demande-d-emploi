@@ -36,6 +36,28 @@
 
 ---
 
+## 1 bis. Ce que la découverte des réalisations graphiques change
+
+*Mise à jour du 27 octobre 2026.*
+
+Les archives présentes sur la branche `main` du dépôt — que je n'avais pas vues lors de la première analyse — contiennent des travaux graphiques qui **ne figuraient nulle part dans le CV** :
+
+- le **logo du Benin Science Leadership Program (B-SLP)**, programme de leadership scientifique de l'Université d'Abomey-Calavi ;
+- la **série complète d'attestations du projet MINNAGAN**, financé par l'Union européenne via Erasmus+, aux côtés de l'Université de Helsinki, de l'Université San Jorge, de l'UNSTIM, de l'Université de Parakou et du ministère de la Santé ;
+- une **étiquette produit** (charbon actif PolFFree-AC) réalisée pour l'URMAPHA ;
+- la **mise en page de documents scientifiques** de formation.
+
+**Conséquence sur l'analyse précédente.** J'avais écrit que votre atout n'était pas les années d'expérience mais le portfolio. C'était juste, mais je sous-estimais le portfolio : vous avez déjà travaillé pour un programme universitaire et pour un projet financé par l'Union européenne. Ce ne sont pas des exercices d'école, ce sont des commandes institutionnelles avec des logos de partenaires internationaux.
+
+**Ce que cela change concrètement :**
+1. Les deux CV comportent désormais une rubrique « Réalisations en graphisme » au lieu d'une simple ligne « Formation en graphisme ».
+2. La lettre PAM cite nommément le logo B-SLP et les attestations MINNAGAN — c'est une preuve, pas une affirmation de compétence.
+3. Le portfolio existe : `04_Portfolio/Portfolio_GNACADJA_Marie_Edith.pdf`, 7 pages.
+
+**Ce que cela ne change pas :** l'absence d'expérience salariée reste le critère qui vous ferme les postes exigeant 2 à 5 ans. Un portfolio exceptionnel ne remplace pas deux ans d'activité attestée.
+
+---
+
 ## 2. Diagnostic de la liste `Offres d'emploi.docx` présente dans le dépôt
 
 Ce document, daté du 22 octobre 2026, recense 22 familles de métiers. Sur environ **90 annonces listées, une douzaine seulement concernent réellement votre profil.** Le reste relève de métiers sans lien avec votre formation :
@@ -98,10 +120,11 @@ VNU communautaire, stage FAO, VNU national : ce sont les trois voies d'accès. E
 
 | Échéance | Action | Statut |
 |---|---|---|
-| **Avant le 30 oct.** | Répondre aux questions de `01_Profil/A_CONFIRMER_AVANT_ENVOI.md` | ⬜ |
+| **✅ Fait** | Parcours confirmé ; réalisations graphiques retrouvées et intégrées ; portfolio généré | ✅ |
 | **30 oct.** | Inscription au répertoire du Ministère de la Communication (5 min, gratuit) | ⬜ |
 | **2-4 nov.** | Finaliser et envoyer la candidature PAM Communication Assistant | ⬜ |
-| **Nov.** | Constituer un **portfolio PDF de 6-8 pages** (affiches, supports, mise en page) | ⬜ |
-| **Nov.** | Soumettre la candidature FAO (stage + volontariat) | ⬜ |
+| **✅ Fait** | Portfolio de 7 pages généré (`04_Portfolio/`) — reste à valider 2 points | ✅ |
+| **Nov.** | Soumettre la candidature FAO — **le stage**, pas le volontariat non rémunéré | ⬜ |
+| **Cette semaine** | Créer le profil `app.unv.org` et viser un **volontariat en ligne** (coût zéro) | ⬜ |
 | **Chaque lundi** | 20 min de veille sur les 9 sources de `03_Veille/` | ⬜ |
 | **Continu** | Candidatures spontanées : ANAN, ONG béninoises du secteur nutrition, PUI Bénin, CREDI-ONG, Eco-Bénin | ⬜ |
