@@ -152,7 +152,7 @@ La FAO est l'agence des Nations Unies chargée de conduire les efforts internati
 
 1. **Créer le profil** sur https://jobs.fao.org (compte candidat externe).
 2. **Vérifier WHED** avant de perdre du temps sur le profil.
-3. **Compléter intégralement** le profil : expériences (y compris stages — à saisir comme « internship » et non comme emploi), formations, langues avec niveau réel, compétences.
+3. **Compléter intégralement** le profil : expériences (y compris stages — à saisir comme « internship » et non comme emploi), formations, langues avec niveau réel, compétences. → **Les quatre entrées sont rédigées et prêtes à copier dans `REMPLIR_L_EXPERIENCE_FAO.md` et `TEXTES_A_COPIER_FAO.txt`.**
 4. **Joindre la lettre de motivation et la preuve de diplôme/inscription** dans la section documents.
 5. **Rechercher l'avis** : « 2601980 » pour le stage, ou l'appel de volontariat RAF pour le second programme.
 6. **Soumettre**. Conservez le numéro de candidature et une capture d'écran.

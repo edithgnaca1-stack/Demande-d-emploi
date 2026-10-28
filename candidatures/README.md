@@ -30,6 +30,8 @@ candidatures/
 │   ├── 01_PAM_Communication_Assistant_Cotonou/    🔴 clôture 5 nov. 2026
 │   │   └── PRET_A_DEPOSER_CE_SOIR.md              ← pas à pas du dépôt Workday
 │   ├── 02_FAO_Stage_Volontariat_Afrique/          🟠 clôture 31 déc. 2026
+│   │   ├── REMPLIR_L_EXPERIENCE_FAO.md           ← les 4 expériences à saisir sur le portail
+│   │   └── TEXTES_A_COPIER_FAO.txt               ← mêmes textes, en clair, pour copier-coller
 │   └── 03_PAM_VNU_Communautaire_Urgent/           ⚫ analyse d'inéligibilité (28 oct. 2026)
 ├── 03_Veille/
 │   ├── SOURCES_OFFICIELLES_ET_PLAN_DE_VEILLE.md  ← 9 sources + routine du lundi

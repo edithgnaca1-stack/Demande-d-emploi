@@ -1,0 +1,177 @@
+TEXTES À COPIER-COLLER — PORTAIL FAO
+Partie « Employment History » / « Expérience professionnelle »
+
+Mode d'emploi : ouvrez ce fichier à côté de la fenêtre du portail FAO,
+et copiez chaque bloc dans le champ correspondant. Ne recopiez pas à la main :
+les puces et les accents sont déjà corrects.
+
+
+================================================================
+ENTRÉE 1 — MAI 2026 — ÉTUDE INTERVENTIONNELLE HYGIÈNE
+================================================================
+
+EMPLOYER / EMPLOYEUR :
+Institut Régional de Santé Publique (IRSP), Université d'Abomey-Calavi — stage conduit en zone sanitaire Abomey-Calavi / Sô-Ava
+
+JOB TITLE / INTITULÉ :
+Stagiaire de master — étude interventionnelle « hygiène hydro-fécale et alimentaire »
+
+COUNTRY / PAYS : Bénin
+CITY / VILLE : Abomey-Calavi et Sô-Ava
+START DATE : 05/2026
+END DATE : 05/2026
+CURRENT EMPLOYER : Non
+REASON FOR LEAVING : Fin de la période de stage académique
+
+DESCRIPTION (FR) :
+----------------------------------------
+Stage de terrain réalisé dans le cadre du Master 2 en nutrition et santé des populations.
+• Conception de l'échantillonnage et conduite de la collecte de données auprès des ménages
+• Observations ménagères directes sur les pratiques d'hygiène alimentaire et hydro-fécale
+• Analyse des scores CAPP (connaissances, attitudes, pratiques et perception)
+• Mesure du changement entre la situation avant et après l'intervention
+• Formulation de recommandations à destination des acteurs de santé publique de la zone sanitaire
+----------------------------------------
+
+DESCRIPTION (EN) :
+----------------------------------------
+Field internship carried out as part of the Master's degree in Nutrition and Population Health.
+• Designed the sampling plan and led household data collection
+• Conducted direct household observations of food and hydro-fecal hygiene practices
+• Analysed CAPP scores (knowledge, attitudes, practices and perception)
+• Measured change between the pre- and post-intervention situation
+• Formulated recommendations for public health stakeholders in the health zone
+----------------------------------------
+
+
+================================================================
+ENTRÉE 2 — FÉVRIER 2026 — ANALYSE DE SITUATION NUTRITIONNELLE (ADD)
+================================================================
+
+EMPLOYER / EMPLOYEUR :
+Institut Régional de Santé Publique (IRSP), Université d'Abomey-Calavi — stage en zone sanitaire Aplahoué–Djakotomey–Dogbo
+
+JOB TITLE / INTITULÉ :
+Stagiaire de master — analyse de situation nutritionnelle
+
+COUNTRY / PAYS : Bénin
+CITY / VILLE : Aplahoué, Djakotomey, Dogbo
+START DATE : 02/2026
+END DATE : 02/2026
+CURRENT EMPLOYER : Non
+REASON FOR LEAVING : Fin de la période de stage académique
+
+DESCRIPTION (FR) :
+----------------------------------------
+Analyse de la situation nutritionnelle de trois communes, dans le cadre du Master 2.
+• Collecte et exploitation des données DHIS2, des annuaires statistiques et des plans de développement communaux
+• Conduite d'entretiens et d'observations de terrain
+• Analyse des indicateurs nutritionnels et réalisation d'une analyse SWOT
+• Priorisation des problèmes de santé et rédaction du rapport d'analyse
+----------------------------------------
+
+DESCRIPTION (EN) :
+----------------------------------------
+Nutrition situation analysis covering three municipalities, as part of the Master's degree.
+• Collected and used DHIS2 data, statistical yearbooks and municipal development plans
+• Conducted key informant interviews and field observations
+• Analysed nutrition indicators and carried out a SWOT analysis
+• Ranked health priorities and drafted the analysis report
+----------------------------------------
+
+
+================================================================
+ENTRÉE 3 — SEPTEMBRE 2025 — ANALYSE DE SITUATION SANITAIRE
+================================================================
+
+EMPLOYER / EMPLOYEUR :
+Direction départementale de la Santé du Littoral — Ministère de la Santé, Bénin
+
+JOB TITLE / INTITULÉ :
+Stagiaire — analyse de situation sanitaire départementale
+
+COUNTRY / PAYS : Bénin
+CITY / VILLE : Cotonou (département du Littoral)
+START DATE : 09/2025
+END DATE : 09/2025
+CURRENT EMPLOYER : Non
+REASON FOR LEAVING : Fin de la période de stage académique
+
+DESCRIPTION (FR) :
+----------------------------------------
+• Analyse de la situation sanitaire du département, notamment sur la couverture vaccinale
+• Exploitation de documents de planification sanitaire (lettre de mission, AOF)
+• Entretiens avec les responsables des divisions Santé publique et Santé communautaire
+• Analyse SWOT et élaboration d'un plan opérationnel (objectifs SMART, stratégies, activités, indicateurs)
+• Initiation à la planification, au suivi et à l'évaluation des interventions sanitaires
+----------------------------------------
+
+DESCRIPTION (EN) :
+----------------------------------------
+• Analysed the department's health situation, with a focus on vaccination coverage
+• Worked from health planning documents (mission statement, annual work plan)
+• Interviewed the heads of the public health and community health divisions
+• Carried out a SWOT analysis and drafted an operational plan (SMART objectives, strategies, activities, indicators)
+• Introductory work on planning, monitoring and evaluation of health interventions
+----------------------------------------
+
+
+================================================================
+ENTRÉE 4 — 2023-2024 — URMAPHA
+================================================================
+
+EMPLOYER / EMPLOYEUR :
+URMAPHA — École Polytechnique d'Abomey-Calavi (EPAC), Université d'Abomey-Calavi
+
+JOB TITLE / INTITULÉ :
+Stagiaire — microbiologie moléculaire et médicale, appui administratif et documentaire
+
+COUNTRY / PAYS : Bénin
+CITY / VILLE : Abomey-Calavi
+START DATE : [à compléter — mois réel de début]
+END DATE : [à compléter — mois réel de fin]
+CURRENT EMPLOYER : Non
+REASON FOR LEAVING : Fin de la période de stage
+
+DESCRIPTION (FR) :
+----------------------------------------
+• Préparation et traitement d'échantillons biologiques ; culture et entretien de micro-organismes
+• Tenue des notes de laboratoire et rédaction de rapports de résultats
+• Archivage et transmission des dossiers ; rédaction et enregistrement des courriers
+• Préparation de rapports d'activités et de rapports qualité ; documentation des procédures et protocoles de l'unité
+• Participation à l'organisation d'un atelier du Programme de leadership scientifique au Bénin et d'une activité sur les revues et conférences prédatrices
+• Enquêtrice pour l'enquête du projet Minangan sur la médecine traditionnelle au Bénin (pratiques, interactions et perspectives liées aux plantes médicinales)
+----------------------------------------
+
+DESCRIPTION (EN) :
+----------------------------------------
+• Prepared and processed biological samples; cultured and maintained microorganisms
+• Kept laboratory records and drafted test reports
+• Filed and transmitted records; drafted and registered correspondence
+• Prepared activity and quality reports; documented the unit's procedures and protocols
+• Helped organise a workshop of the Science Leadership Programme in Benin and an event on predatory journals and conferences
+• Interviewer for the Minangan project survey on traditional medicine in Benin (practices, interactions and perspectives on medicinal plant use)
+----------------------------------------
+
+
+================================================================
+À NE PAS ÉCRIRE
+================================================================
+
+• « 2 ans d'expérience professionnelle » : aucun emploi salarié attesté.
+• Une entrée « Graphiste » : statut non confirmé sur les visuels B-SLP / MINNAGAN.
+• Un intitulé « nutritionniste » ou « chargée de projet » pour un stage.
+• « Anglais courant » ou « fluent » : niveau intermédiaire (B).
+
+
+================================================================
+SI LE FORMULAIRE BLOQUE
+================================================================
+
+1. Ordinateur, Chrome ou Firefox — pas de téléphone.
+2. Désactiver la traduction automatique de la page.
+3. Désactiver les bloqueurs de publicité pour jobs.fao.org.
+4. Session limitée à 20 minutes : enregistrer après chaque bloc.
+5. Format de date : MM/AAAA (ex. 05/2026), aucune date de fin dans le futur.
+6. Dérouler tout le bloc avant de cliquer sur « Add » : un champ obligatoire caché bloque l'enregistrement.
+7. Assistance technique officielle : https://fao.service-now.com/csp
