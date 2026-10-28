@@ -5,16 +5,25 @@
 
 ---
 
-## D'abord : rassurez-vous, vous n'êtes pas bloquée par un manque d'expérience
+## « Je n'ai aucun emploi salarié à mettre » — et alors ?
 
-Le programme de stages de la FAO **n'exige aucun nombre d'années d'expérience**. Ses critères publiés sont : être inscrite en licence/master ou jeune diplômée, avoir entre 21 et 30 ans, venir d'un établissement reconnu (base WHED), être dans un domaine pertinent, parler une langue officielle de la FAO, être ressortissante d'un État membre. **Vous remplissez les six.**
+**C'est vrai, et ce n'est pas un obstacle.** Voici pourquoi, point par point.
 
-Donc si le formulaire résiste, ce n'est pas parce que votre parcours est vide. C'est parce que :
+**1. Le programme de stages de la FAO n'exige aucune expérience professionnelle.** Aucune ligne de l'avis 2601980 ne demande un nombre de mois ou d'années travaillés. Les critères sont : inscription en licence/master ou jeune diplômée, 21-30 ans, établissement reconnu, domaine pertinent, langue officielle, nationalité d'un État membre. **Un stage est fait pour les gens qui n'ont pas encore d'emploi.** Si la FAO exigeait de l'expérience, elle n'aurait pas de programme de stages.
 
-1. **vous avez quatre expériences réelles à saisir** — trois stages académiques et un stage à l'URMAPHA — et il faut savoir dans quels champs les mettre ;
-2. **le portail FAO est un système Taleo**, techniquement capricieux : expiration de session, formats de date, champs obligatoires cachés, traduction automatique qui casse le formulaire.
+**2. La case « Employment History » n'attend pas un emploi — elle attend un historique.** Dans les systèmes de recrutement onusiens, cette section recueille **tout ce que vous avez fait de professionnel** : stages, vacations, bénévolat, enquêtes de terrain, appui à un projet de recherche. Un formulaire vide inquiète ; quatre stages datés et décrits racontent un parcours. **C'est votre cas.**
 
-Les deux se règlent. Ci-dessous, les textes sont prêts à copier.
+**3. Vous avez quatre entrées, pas zéro.** Trois stages de terrain — DDS Littoral (sept. 2025), zone ADD (févr. 2026), zone Abomey-Calavi/Sô-Ava (mai 2026) — et un stage de longue durée à l'URMAPHA (2023-2024) qui comprend du laboratoire, de la gestion documentaire et une enquête de terrain pour le projet Minangan. Ce sont de vraies expériences, encadrées, avec des livrables. Les décrire précisément n'est pas de l'embellissement : c'est de la traçabilité.
+
+**4. Le seul mot à ne pas écrire, c'est « employé ».** Vous saisissez « **Stagiaire** » dans l'intitulé. C'est exact, vérifiable auprès de chaque structure, et cela ne vous coûte rien : le recruteur qui lit « stagiaire » dans une candidature à un stage ne voit pas une faiblesse, il voit la case suivante d'un parcours normal.
+
+### Et si le formulaire demande « nombre d'années d'expérience » ?
+
+Répondez **la vérité** : **moins d'un an**, ou sélectionnez l'option « less than 1 year » / « 0-1 an » si elle existe. Les stages y comptent pour ce qu'ils sont. Ne déclarez jamais « 1-2 ans » pour arrondir : c'est le genre d'écart qui se retourne contre vous à la vérification des références, et vous n'avez aucun besoin de le prendre.
+
+### Et si la liste déroulante « Employment type » n'a pas « Internship » ?
+
+Choisissez, dans cet ordre : **Internship** → **Temporary** → **Other** → laissez vide si le champ n'est pas obligatoire (astérisque absent). **N'inventez pas « Full-time permanent ».**
 
 ---
 
